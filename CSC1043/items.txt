@@ -1,0 +1,6 @@
+pens 4
+pencils 10
+notebooks 5
+staplers 4
+pencils 6
+paper 2
